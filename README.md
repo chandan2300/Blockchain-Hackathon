@@ -33,8 +33,12 @@ Giving a brief overview of the files:
 
 ## Contributors
 
-## chandan2300
-## harsha-hl
-## ujwal-05
-## Naman003
+# chandan2300
+# harsha-hl
+# ujwal-05
+# Naman003
+
+## Certificate
+![Certificate](Chandan_Certificate.png)
+
 
